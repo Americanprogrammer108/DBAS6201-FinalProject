@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Your Music Depot Application-DBAS6201.props" />
+</Project>

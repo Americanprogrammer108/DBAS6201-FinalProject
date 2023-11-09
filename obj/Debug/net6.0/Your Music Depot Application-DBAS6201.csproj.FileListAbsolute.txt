@@ -1,0 +1,38 @@
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\appsettings.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.staticwebassets.runtime.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.exe
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.deps.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.runtimeconfig.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\Your Music Depot Application-DBAS6201.pdb
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.csproj.AssemblyReference.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.AssemblyInfoInputs.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.AssemblyInfo.cs
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.csproj.CoreCompileInputs.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.RazorAssemblyInfo.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.RazorAssemblyInfo.cs
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets\msbuild.Your Music Depot Application-DBAS6201.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets\msbuild.build.Your Music Depot Application-DBAS6201.props
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Your Music Depot Application-DBAS6201.props
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Your Music Depot Application-DBAS6201.props
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\scopedcss\bundle\Your Music Depot Application-DBAS6201.styles.css
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\scopedcss\projectbundle\Your Music Depot Application-DBAS6201.bundle.scp.css
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.csproj.CopyComplete
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\refint\Your Music Depot Application-DBAS6201.dll
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.pdb
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\Your Music Depot Application-DBAS6201.genruntimeconfig.cache
+C:\Users\Chens\source\repos\Your Music Depot Application-DBAS6201\obj\Debug\net6.0\ref\Your Music Depot Application-DBAS6201.dll
